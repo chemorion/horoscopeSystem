@@ -1,0 +1,11 @@
+C:\Users\kiptengwer\source\repos\WebApplication1\WebApplication1\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\kiptengwer\source\repos\WebApplication1\WebApplication1\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\kiptengwer\source\repos\WebApplication1\WebApplication1\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\kiptengwer\source\repos\WebApplication1\WebApplication1\DataLibrary\bin\Debug\System.Data.SqlClient.dll
+C:\Users\kiptengwer\source\repos\WebApplication1\WebApplication1\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\kiptengwer\source\repos\WebApplication1\WebApplication1\DataLibrary\bin\Debug\System.Data.SqlClient.xml
+C:\Users\kiptengwer\source\repos\WebApplication1\WebApplication1\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\kiptengwer\source\repos\WebApplication1\WebApplication1\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kiptengwer\source\repos\WebApplication1\WebApplication1\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\kiptengwer\source\repos\WebApplication1\WebApplication1\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\kiptengwer\source\repos\WebApplication1\WebApplication1\DataLibrary\obj\Debug\DataLibrary.pdb
